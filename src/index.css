@@ -1,0 +1,124 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html, body{
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.customFooter {
+  background: lightgray;
+  text-align: center;
+}
+
+.textLink {
+  color: lightsteelblue;
+}
+
+.textLink:hover{
+  color: burlywood;
+}
+
+.rounded-circle {
+  
+
+  width: 200px;
+  border-color: lightsteelblue;
+  border-style: solid;
+}
+
+.media-body {
+  padding: 10px;
+}
+body {
+  background: url(./components/photos/background.jpg);
+  background-size: contain;
+  background-position: top;
+  background: cover;
+}
+
+h1 {
+  padding: 10px 10px 10px 0px;
+}
+
+a:link {
+  color: lightsteelblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: seashell;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: firebrick;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: aquamarine;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.contacts {
+    margin-left: 25px;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.appLink {
+  position: relative;
+
+}
+
+.appLink p:hover {
+  background: lightsteelblue;
+  color: black;
+}
+
+.appLink p {
+  position: absolute;
+  text-align: center;
+  background: black;
+  color: whitesmoke;
+  width: 100%;
+  bottom: 15%;
+  font-size: 2em;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  margin: 0;
+  padding: 5px 0px 5px 0px;
+}
+
+.footer {
+  position: fixed;
+  left:0;
+  bottom:0;
+  right:0;
+}
+
+button {
+  margin-top: 15px;
+}
+
+nav {
+  margin-bottom: 10px;
+}
+

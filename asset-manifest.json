@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/05222020/static/css/main.5f361e03.chunk.css",
-    "main.js": "/05222020/static/js/main.6e2c3a2f.chunk.js",
-    "main.js.map": "/05222020/static/js/main.6e2c3a2f.chunk.js.map",
+    "main.css": "/05222020/static/css/main.e317e354.chunk.css",
+    "main.js": "/05222020/static/js/main.0da5ef8e.chunk.js",
+    "main.js.map": "/05222020/static/js/main.0da5ef8e.chunk.js.map",
     "runtime-main.js": "/05222020/static/js/runtime-main.3a49fe46.js",
     "runtime-main.js.map": "/05222020/static/js/runtime-main.3a49fe46.js.map",
-    "static/js/2.f8be62cb.chunk.js": "/05222020/static/js/2.f8be62cb.chunk.js",
-    "static/js/2.f8be62cb.chunk.js.map": "/05222020/static/js/2.f8be62cb.chunk.js.map",
+    "static/js/2.e1bd91b6.chunk.js": "/05222020/static/js/2.e1bd91b6.chunk.js",
+    "static/js/2.e1bd91b6.chunk.js.map": "/05222020/static/js/2.e1bd91b6.chunk.js.map",
     "index.html": "/05222020/index.html",
-    "precache-manifest.c910e611289bd57752f3862e6d2abf75.js": "/05222020/precache-manifest.c910e611289bd57752f3862e6d2abf75.js",
+    "precache-manifest.800a0ac84bb43098be6db836c1e3e055.js": "/05222020/precache-manifest.800a0ac84bb43098be6db836c1e3e055.js",
     "service-worker.js": "/05222020/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/05222020/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f8be62cb.chunk.js.LICENSE.txt": "/05222020/static/js/2.f8be62cb.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/05222020/static/media/logo.5d5d9eef.svg"
+    "static/css/main.e317e354.chunk.css.map": "/05222020/static/css/main.e317e354.chunk.css.map",
+    "static/js/2.e1bd91b6.chunk.js.LICENSE.txt": "/05222020/static/js/2.e1bd91b6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/05222020/static/media/background.ec250e44.jpg",
+    "static/media/burgerImage.jpg": "/05222020/static/media/burgerImage.609f6f4b.jpg",
+    "static/media/hw10.jpg": "/05222020/static/media/hw10.07c6db76.jpg",
+    "static/media/noteImage.jpg": "/05222020/static/media/noteImage.131d3fcd.jpg",
+    "static/media/profile.jpg": "/05222020/static/media/profile.46a0ed09.jpg",
+    "static/media/pwImage.jpg": "/05222020/static/media/pwImage.d886d44d.jpg",
+    "static/media/resume.jpg": "/05222020/static/media/resume.142f1e3f.jpg",
+    "static/media/trackerImage.jpg": "/05222020/static/media/trackerImage.72f86050.jpg",
+    "static/media/weatherImage.jpg": "/05222020/static/media/weatherImage.2d0bdc0d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3a49fe46.js",
-    "static/js/2.f8be62cb.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6e2c3a2f.chunk.js"
+    "static/js/2.e1bd91b6.chunk.js",
+    "static/css/main.e317e354.chunk.css",
+    "static/js/main.0da5ef8e.chunk.js"
   ]
 }

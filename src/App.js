@@ -10,11 +10,12 @@ import './index.css'
 
 
 function App (){
+  console.log(process.env.PUBLIC_URL)
   return (
     <Router>
       <div>
         <Header  />
-        <Route exact path ="/" component ={About} />
+        <Route exact path ={process.env.PUBLIC_URL}component ={About} />
         <Route exact path ="/portfolio" component ={Portfolio} />
         <Route exact path ="/contact" component ={Contact} />
         <Footer />

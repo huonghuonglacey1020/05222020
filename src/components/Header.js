@@ -5,7 +5,8 @@ function Header() {
 
     return (
         <div>
-            <nav className="navbar navbar-expand-sm navbar-dark  fix-navbar aqua-gradient">
+            <nav className="navbar navbar-expand-sm navbar-dark  fix-navbar
+            aqua-gradient">
                 <span className="navbar-brand mb-0 h1">Huong Nguyen</span>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
                     aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
